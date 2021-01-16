@@ -4,3 +4,11 @@ Changelog:
 
 + box-model done (positions)
 + images set.
+
+
+
+## Commit 16/01 
+
+Changelog: 
+
++ Double text removed;
